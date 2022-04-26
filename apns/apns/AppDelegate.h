@@ -1,0 +1,14 @@
+//
+//  AppDelegate.h
+//  apns
+//
+//  Created by shuisheng hong on 2022/4/24.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+
+@end
+
